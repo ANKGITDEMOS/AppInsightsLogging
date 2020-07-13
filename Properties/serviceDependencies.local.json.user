@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2020-07-07T05:22:47.5681861Z"
+    },
+    "appInsights1": {
+      "restored": true,
+      "restoreTime": "2020-07-07T05:26:03.7786457Z"
+    }
+  },
+  "parameters": {
+    "resourceGroup": {
+      "Type": "resourceGroup",
+      "Value": "ANK_EASTUS_CUST_DEMO_WEBAPP"
+    },
+    "subscriptionId": {
+      "Type": "subscription",
+      "Value": "3a647977-f78c-47f0-82c2-fe4d8e60bb77"
+    }
+  }
+}
